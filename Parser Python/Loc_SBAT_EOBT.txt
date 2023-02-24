@@ -1,0 +1,14 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: EOBT
+
+LOC: SBAT                                    INÍCIO DE VALIDADE: 23fev.2023                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   240223 030323 1034567 AZU4535 E195/M SBAT1745 N0443 340 DCT DARBA DCT EQUAL                 SBCY0105 EQPT/SDFGHIRWY/H              
+                                                                                                        PBN/A1B1C1D1O2S2T1            
