@@ -47,7 +47,7 @@ function EscalaDeVoo() {
   return (
     <form onSubmit={handleFormSubmit}>
       <div>
-        <label>Qual é a origem do seu primeiro voo?</label>
+        <label className='origem'>Qual é a origem do seu primeiro voo?</label>
         <input type="text" value={origem} onChange={handleOrigemChange} />
       </div>
       <div>
